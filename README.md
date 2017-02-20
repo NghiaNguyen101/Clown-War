@@ -1,4 +1,12 @@
-CPE 123 - Topic: Computational Art
-Final Project: ClownWar
-Group 7: Caroline Olesh, Edward Lam, Kaysha Chandra, Nghia Nguyen
-Notice: This program requires Processing with minim sound library to run.
+# Project Title
+Clown War - A combination between Star War and South Park. Wanna know what it is about, download and try it.
+
+## Prerequisites
+* [Processing] (https://processing.org/) - IDE to run this project
+* Minim - Sound Library to run inside Processing
+
+## Authors
+* **Nghia Nguyen**
+* **Edward Lam**
+* **Kaysha Chandra**
+* **Caroline Olesh**
